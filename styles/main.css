@@ -1,0 +1,17 @@
+.social-link:hover {
+    color: rgba(255, 255, 255, .75);
+}
+
+.content {
+    display: flex;
+}
+
+.my-img {
+    width: 400px;
+    height: 400px;
+    margin-right: 100px;
+}
+
+.about-me {
+    padding: 10px;
+}
