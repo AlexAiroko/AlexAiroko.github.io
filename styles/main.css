@@ -4,12 +4,14 @@
 
 .content {
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .my-img {
     width: 400px;
     height: 400px;
-    margin-right: 100px;
+    margin-right: 70px;
 }
 
 .about-me {
